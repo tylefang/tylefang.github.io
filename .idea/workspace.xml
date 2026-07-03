@@ -1,26 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="06addba1-cd36-4b64-9a3e-b28f5c7566ad" name="更改" comment="init6">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/paynewu5.github.io.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/articles/acl2021_dbp2.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/articles/ccks2024.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/articles/openkg2025.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homepage/all.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homepage/base.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homepage/buttons.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homepage/font-awesome.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homepage/jquery-3.4.0.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homepage/layout.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homepage/profile.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homepage/skeleton.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.htm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
+    <list default="true" id="06addba1-cd36-4b64-9a3e-b28f5c7566ad" name="更改" comment="init9">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -138,7 +121,31 @@
       <option name="project" value="LOCAL" />
       <updated>1783060536058</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="init7">
+      <option name="closed" value="true" />
+      <created>1783062263725</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1783062263725</updated>
+    </task>
+    <task id="LOCAL-00010" summary="init8">
+      <option name="closed" value="true" />
+      <created>1783062762088</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1783062762088</updated>
+    </task>
+    <task id="LOCAL-00011" summary="init9">
+      <option name="closed" value="true" />
+      <created>1783063296280</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1783063296280</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -163,6 +170,9 @@
     <MESSAGE value="init4" />
     <MESSAGE value="init5" />
     <MESSAGE value="init6" />
-    <option name="LAST_COMMIT_MESSAGE" value="init6" />
+    <MESSAGE value="init7" />
+    <MESSAGE value="init8" />
+    <MESSAGE value="init9" />
+    <option name="LAST_COMMIT_MESSAGE" value="init9" />
   </component>
 </project>

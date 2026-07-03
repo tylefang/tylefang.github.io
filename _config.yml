@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Tao Fang / 方涛"
-description              : "Associate Professor at Hefei University of Technology. Research interests: Multimodal Affective Computing, AI in Mental Health, Large Language Models, NLP."
+description              : "Research Interests: Artificial Intelligence, Natural Language Processing, Large Language Models, Multimodal LLMs, Reasoning LLMs, and their applications; AI for Science"
 repository               : "tylefang/tylefang.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,12 +23,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "tao Fang (方涛)"
   avatar           : "images/profile.png"
-  bio              : "助理教授，數智語言服務學系，中西創新學院"
+  bio              : "Assistant Professor
+Institute of International Language Services Studies
+Macau Millennium College, Macau SAR, China"
   location         : "Macau, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=ya8M8OEAAAAJ&hl=en"
-  email            : "11111"
+  email            : "taylefang@gmail.com"
   researchgate     :
   uri              :
   bitbucket        :
