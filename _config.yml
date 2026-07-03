@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Jinpeng Hu / 胡金鹏"
+title                    : "Tao Fang / 方涛"
 description              : "Associate Professor at Hefei University of Technology. Research interests: Multimodal Affective Computing, AI in Mental Health, Large Language Models, NLP."
-repository               : "jinpeng01/jinpeng01.github.io"
+repository               : "tylefang/tylefang.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,14 +21,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Jinpeng Hu (胡金鹏)"
+  name             : "tao Fang (方涛)"
   avatar           : "images/profile.png"
-  bio              : "Associate Professor, Hefei University of Technology"
-  location         : "Hefei, China"
+  bio              : "助理教授，數智語言服務學系，中西創新學院"
+  location         : "Macau, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=3xMIKfcAAAAJ&hl=en"
-  email            : "jinpenghu@hfut.edu.cn"
+  googlescholar    : "https://scholar.google.com/citations?user=ya8M8OEAAAAJ&hl=en"
+  email            : "11111"
   researchgate     :
   uri              :
   bitbucket        :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "jinpeng01"
+  github           : "tylefang"
   google_plus      :
   keybase          :
   instagram        :
