@@ -19,10 +19,9 @@ redirect_from:
 
 # About Me
 
-I am an Associate Professor at **Hefei University of Technology**. I obtained my Ph.D. from The Chinese University of Hong Kong, Shenzhen, supervised by [Prof. Xiang Wan](https://sds.cuhk.edu.cn/teacher/406) and [Prof. Tsung-Hui Chang](https://myweb.cuhk.edu.cn/changtsunghui/Home). Before that, I received a master's degree in Computer Science and Technology from Harbin Institute of Technology, supervised by [Prof. Yi Guan](http://homepage.hit.edu.cn/guanyi).
-
-My research interests include **Multimodal Affective Computing**, **AI in Mental Health**, **Large Language Models**, **Summarization**, **Named Entity Recognition**, and **Natural Language Processing**.
-
+> I am an Assistant Professor at Macau Millennium College. I obtained my Ph.D. from the **University of Macau**, Macau SAR, China, supervised by [Prof. Derek F. Wong](https://personal.fst.um.edu.mo/derek-wong/) at the [NLP2CT Lab](http://nlp2ct.cis.um.edu.mo/). Before that, I received a master's degree in Mathematics from Shanghai Maritime University, supervised by [Prof. Yun-Hu Wang].
+>
+> My research interests include **Artificial Intelligence**, **Natural Language Processing**, **Machine Translation**, **Grammatical Error Correction**, and **Large Language Models**—with a special focus on multimodal and reasoning-enhanced architectures—as well as their practical applications and **AI for Science**.
 ---
 
 # 🔥 News

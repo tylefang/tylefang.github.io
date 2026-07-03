@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="06addba1-cd36-4b64-9a3e-b28f5c7566ad" name="更改" comment="init9">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
-    </list>
+    <list default="true" id="06addba1-cd36-4b64-9a3e-b28f5c7566ad" name="更改" comment="init10" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -145,7 +142,15 @@
       <option name="project" value="LOCAL" />
       <updated>1783063296280</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="init10">
+      <option name="closed" value="true" />
+      <created>1783064267104</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1783064267104</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -173,6 +178,7 @@
     <MESSAGE value="init7" />
     <MESSAGE value="init8" />
     <MESSAGE value="init9" />
-    <option name="LAST_COMMIT_MESSAGE" value="init9" />
+    <MESSAGE value="init10" />
+    <option name="LAST_COMMIT_MESSAGE" value="init10" />
   </component>
 </project>
