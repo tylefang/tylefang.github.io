@@ -19,7 +19,7 @@ redirect_from:
 
 # About Me
 
-I am an Assistant Professor at **Macau Millennium College**. I obtained my Ph.D. from the **University of Macau**, Macau SAR, China, supervised by [Prof. Derek F. Wong](https://personal.fst.um.edu.mo/derek-wong/) at the [NLP2CT Lab](http://nlp2ct.cis.um.edu.mo/). Before that, I received a master's degree in Mathematics from **Shanghai Maritime University**, supervised by [Prof. Yun-Hu Wang](https://wlxy.shmtu.edu.cn/2023/1215/c6603a219392/page.htm).
+I am an Assistant Professor at **Macau Millennium College**. I obtained my Ph.D. from the University of Macau, Macau SAR, China, supervised by [Prof. Derek F. Wong](https://personal.fst.um.edu.mo/derek-wong/) at the [NLP2CT Lab](http://nlp2ct.cis.um.edu.mo/). Before that, I received a master's degree in Mathematics from Shanghai Maritime University, supervised by [Prof. Yun-Hu Wang](https://wlxy.shmtu.edu.cn/2023/1215/c6603a219392/page.htm).
 
 My research interests include **Artificial Intelligence**, **Natural Language Processing**, **Machine Translation**, **Grammatical Error Correction**, and **Large Language Models**—with a special focus on multimodal and reasoning-enhanced architectures—as well as their practical applications and **AI for Science**.
 
